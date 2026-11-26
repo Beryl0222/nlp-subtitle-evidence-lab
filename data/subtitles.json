@@ -1,0 +1,164 @@
+[
+  {
+    "id": "cut-a-1",
+    "work": "bridge-film",
+    "version": "cut-a",
+    "start_ms": 0,
+    "end_ms": 3500,
+    "speaker": "岚",
+    "text": "晚风吹过桥边。"
+  },
+  {
+    "id": "cut-a-2",
+    "work": "bridge-film",
+    "version": "cut-a",
+    "start_ms": 4000,
+    "end_ms": 7500,
+    "speaker": "青",
+    "text": "你也来了。"
+  },
+  {
+    "id": "cut-a-3",
+    "work": "bridge-film",
+    "version": "cut-a",
+    "start_ms": 8000,
+    "end_ms": 11500,
+    "speaker": "岚",
+    "text": "钥匙不在钟楼，在空船的第三个格子。"
+  },
+  {
+    "id": "cut-a-4",
+    "work": "bridge-film",
+    "version": "cut-a",
+    "start_ms": 12000,
+    "end_ms": 15500,
+    "speaker": "青",
+    "text": "我昨天把蓝纸交给了守桥人。"
+  },
+  {
+    "id": "cut-a-5",
+    "work": "bridge-film",
+    "version": "cut-a",
+    "start_ms": 16000,
+    "end_ms": 19500,
+    "speaker": "岚",
+    "text": "不是那张，是写着七朵云的那张。"
+  },
+  {
+    "id": "cut-a-6",
+    "work": "bridge-film",
+    "version": "cut-a",
+    "start_ms": 20000,
+    "end_ms": 23500,
+    "speaker": "青",
+    "text": "别相信灯光，它每隔三声才是真的。"
+  },
+  {
+    "id": "cut-a-7",
+    "work": "bridge-film",
+    "version": "cut-a",
+    "start_ms": 24000,
+    "end_ms": 27500,
+    "speaker": "岚",
+    "text": "我们明早再来。"
+  },
+  {
+    "id": "cut-a-8",
+    "work": "bridge-film",
+    "version": "cut-a",
+    "start_ms": 28000,
+    "end_ms": 31500,
+    "speaker": "青",
+    "text": "谢谢你。"
+  },
+  {
+    "id": "cut-b-1",
+    "work": "bridge-film",
+    "version": "cut-b",
+    "start_ms": 3000,
+    "end_ms": 6500,
+    "speaker": "岚",
+    "text": "晚风吹过桥边。"
+  },
+  {
+    "id": "cut-b-2",
+    "work": "bridge-film",
+    "version": "cut-b",
+    "start_ms": 7000,
+    "end_ms": 10500,
+    "speaker": "青",
+    "text": "你也来了。"
+  },
+  {
+    "id": "cut-b-3",
+    "work": "bridge-film",
+    "version": "cut-b",
+    "start_ms": 11000,
+    "end_ms": 14500,
+    "speaker": "岚",
+    "text": "钥匙不在钟楼，在空船的第三个格子。"
+  },
+  {
+    "id": "cut-b-4",
+    "work": "bridge-film",
+    "version": "cut-b",
+    "start_ms": 15000,
+    "end_ms": 18500,
+    "speaker": "青",
+    "text": "昨天蓝色的纸已交给桥边的人。"
+  },
+  {
+    "id": "cut-b-5",
+    "work": "bridge-film",
+    "version": "cut-b",
+    "start_ms": 19000,
+    "end_ms": 22500,
+    "speaker": "岚",
+    "text": "不是那张，是写着七朵云的那张。"
+  },
+  {
+    "id": "cut-b-6",
+    "work": "bridge-film",
+    "version": "cut-b",
+    "start_ms": 23000,
+    "end_ms": 26500,
+    "speaker": "青",
+    "text": "别相信灯光，它每隔三声才是真的。"
+  },
+  {
+    "id": "cut-b-7",
+    "work": "bridge-film",
+    "version": "cut-b",
+    "start_ms": 27000,
+    "end_ms": 30500,
+    "speaker": "岚",
+    "text": "我们明早再来。"
+  },
+  {
+    "id": "cut-b-8",
+    "work": "bridge-film",
+    "version": "cut-b",
+    "start_ms": 31000,
+    "end_ms": 34500,
+    "speaker": "青",
+    "text": "谢谢你。"
+  },
+  {
+    "id": "other-1",
+    "work": "market-film",
+    "version": "v1",
+    "start_ms": 0,
+    "end_ms": 3000,
+    "speaker": "远",
+    "text": "你也来了。"
+  },
+  {
+    "id": "other-2",
+    "work": "market-film",
+    "version": "v1",
+    "start_ms": 3000,
+    "end_ms": 6000,
+    "speaker": "近",
+    "text": "谢谢你。"
+  }
+]

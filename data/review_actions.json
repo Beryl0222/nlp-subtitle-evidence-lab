@@ -1,0 +1,31 @@
+[
+  {
+    "id": "review1",
+    "upload": "up1",
+    "action": "deny_match",
+    "text": "开头问候语不能作为本作品独有证据。",
+    "refs": [
+      "up1"
+    ]
+  },
+  {
+    "id": "review2",
+    "upload": "up1",
+    "action": "confirm_local_correspondence",
+    "source": "cut-a-3",
+    "text": "仅确认空船钥匙这一句的对应，未判断许可。",
+    "refs": [
+      "up1",
+      "cut-a-3"
+    ]
+  },
+  {
+    "id": "fix1",
+    "action": "subtitle_correction",
+    "source": "cut-a-5",
+    "text": "不是那张，是写着九朵云的那张。",
+    "refs": [
+      "cut-a-5"
+    ]
+  }
+]

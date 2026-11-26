@@ -1,0 +1,54 @@
+[
+  {
+    "id": "up1",
+    "title": "桥边剧情讨论",
+    "language": "zh",
+    "purpose": "review",
+    "published": "2026-05-06",
+    "segments": [
+      {
+        "start_ms": 0,
+        "end_ms": 4000,
+        "text": "今天说桥边的故事。你也来了。"
+      },
+      {
+        "start_ms": 4000,
+        "end_ms": 8000,
+        "text": "钥匙在空船第三格，不在钟楼。"
+      },
+      {
+        "start_ms": 8000,
+        "end_ms": 12000,
+        "text": "我觉得这段很巧妙。不是那张，是七朵云的那张。"
+      }
+    ]
+  },
+  {
+    "id": "up2",
+    "title": "问候合集",
+    "language": "zh",
+    "purpose": "compilation",
+    "published": "2026-05-06",
+    "segments": [
+      {
+        "start_ms": 0,
+        "end_ms": 2000,
+        "text": "你也来了。谢谢你。"
+      }
+    ]
+  },
+  {
+    "id": "up3",
+    "title": "灯光谜题",
+    "language": "zh",
+    "purpose": "advertisement",
+    "published": "2026-07-01",
+    "segments": [
+      {
+        "start_ms": 0,
+        "end_ms": 5000,
+        "text": "灯光不可信，每三声才是真信号。我们明早再来。"
+      }
+    ]
+  }
+]
